@@ -1,1 +1,3 @@
-# thegeeksam.github.io
+# Sampath Kumar S
+Welcome to my personal portfolio!
+
